@@ -1,0 +1,9 @@
+F:\project\SumOfMultiflies\SumOfMultiflies\bin\Debug\SumOfMultiflies.exe.config
+F:\project\SumOfMultiflies\SumOfMultiflies\bin\Debug\SumOfMultiflies.exe
+F:\project\SumOfMultiflies\SumOfMultiflies\bin\Debug\SumOfMultiflies.pdb
+F:\project\SumOfMultiflies\SumOfMultiflies\obj\Debug\SumOfMultiflies.csprojResolveAssemblyReference.cache
+F:\project\SumOfMultiflies\SumOfMultiflies\obj\Debug\SumOfMultiflies.exe
+F:\project\SumOfMultiflies\SumOfMultiflies\obj\Debug\SumOfMultiflies.pdb
+D:\project\SumOfMultiflies\SumOfMultiflies\bin\Debug\SumOfMultiflies.exe.config
+D:\project\SumOfMultiflies\SumOfMultiflies\obj\Debug\SumOfMultiflies.exe
+D:\project\SumOfMultiflies\SumOfMultiflies\obj\Debug\SumOfMultiflies.pdb

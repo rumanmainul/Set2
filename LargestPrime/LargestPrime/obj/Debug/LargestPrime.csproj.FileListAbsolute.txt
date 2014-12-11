@@ -1,0 +1,12 @@
+F:\project\LargestPrime\LargestPrime\bin\Debug\LargestPrime.exe.config
+F:\project\LargestPrime\LargestPrime\bin\Debug\LargestPrime.exe
+F:\project\LargestPrime\LargestPrime\bin\Debug\LargestPrime.pdb
+F:\project\LargestPrime\LargestPrime\obj\Debug\LargestPrime.exe
+F:\project\LargestPrime\LargestPrime\obj\Debug\LargestPrime.pdb
+F:\project\LargestPrime\LargestPrime\obj\Debug\LargestPrime.csprojResolveAssemblyReference.cache
+D:\project\Set2\LargestPrime\LargestPrime\bin\Debug\LargestPrime.exe.config
+D:\project\Set2\LargestPrime\LargestPrime\obj\Debug\LargestPrime.exe
+D:\project\Set2\LargestPrime\LargestPrime\obj\Debug\LargestPrime.pdb
+D:\project\Set2\LargestPrime\LargestPrime\bin\Debug\LargestPrime.exe
+D:\project\Set2\LargestPrime\LargestPrime\bin\Debug\LargestPrime.pdb
+D:\project\Set2\LargestPrime\LargestPrime\obj\Debug\LargestPrime.csprojResolveAssemblyReference.cache

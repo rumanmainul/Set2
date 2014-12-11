@@ -1,0 +1,6 @@
+D:\project\Set2\PrimeNumber10001\PrimeNumber10001\bin\Debug\PrimeNumber10001.exe.config
+D:\project\Set2\PrimeNumber10001\PrimeNumber10001\bin\Debug\PrimeNumber10001.exe
+D:\project\Set2\PrimeNumber10001\PrimeNumber10001\bin\Debug\PrimeNumber10001.pdb
+D:\project\Set2\PrimeNumber10001\PrimeNumber10001\obj\Debug\PrimeNumber10001.csprojResolveAssemblyReference.cache
+D:\project\Set2\PrimeNumber10001\PrimeNumber10001\obj\Debug\PrimeNumber10001.exe
+D:\project\Set2\PrimeNumber10001\PrimeNumber10001\obj\Debug\PrimeNumber10001.pdb

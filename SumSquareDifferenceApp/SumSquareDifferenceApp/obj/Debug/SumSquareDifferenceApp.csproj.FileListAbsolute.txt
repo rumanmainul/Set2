@@ -1,0 +1,6 @@
+D:\project\Set2\SumSquareDifferenceApp\SumSquareDifferenceApp\bin\Debug\SumSquareDifferenceApp.exe.config
+D:\project\Set2\SumSquareDifferenceApp\SumSquareDifferenceApp\bin\Debug\SumSquareDifferenceApp.exe
+D:\project\Set2\SumSquareDifferenceApp\SumSquareDifferenceApp\bin\Debug\SumSquareDifferenceApp.pdb
+D:\project\Set2\SumSquareDifferenceApp\SumSquareDifferenceApp\obj\Debug\SumSquareDifferenceApp.exe
+D:\project\Set2\SumSquareDifferenceApp\SumSquareDifferenceApp\obj\Debug\SumSquareDifferenceApp.pdb
+D:\project\Set2\SumSquareDifferenceApp\SumSquareDifferenceApp\obj\Debug\SumSquareDifferenceApp.csprojResolveAssemblyReference.cache

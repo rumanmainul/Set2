@@ -1,0 +1,10 @@
+F:\project\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+F:\project\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+F:\project\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+F:\project\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+F:\project\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.pdb
+D:\project\Set2\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+D:\project\Set2\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+D:\project\Set2\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.pdb
+D:\project\Set2\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+D:\project\Set2\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
